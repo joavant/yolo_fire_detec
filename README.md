@@ -1,6 +1,6 @@
 # YOLO Fire Detection
 
-This repository tracks my project. It uses a YOLOv8s model trained on over 40,000 images found on Roboflow Universe.
+This repository tracks my project. It uses a YOLOv8s model trained on over 40,000 images found on Roboflow Universe. [Here is the dataset](jojomoi-meme/Wildfire)
 
 ## Why?
 
