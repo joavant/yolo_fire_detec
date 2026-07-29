@@ -19,6 +19,18 @@ For this project, I used the **MaixCAM**, an all-in-one AI camera.
 
 ## Proof & Results
 
-Here is the model in action:
+Here is the model in action, this is the result after 10h of training:
 
-![Fire Detection Proof](screenshots/proof.png)
+![confusion_matrix_normalized](https://github.com/user-attachments/assets/bac729ed-2404-4716-a353-b6184a2f717d)
+
+This is the train data: 
+
+![labels](https://github.com/user-attachments/assets/bbcc14f7-d779-4afe-a970-128e91f505fb)
+
+And the result of all stats:
+![results](https://github.com/user-attachments/assets/a3d730b4-9015-4e29-a1f0-6a38f20cc17f)
+
+
+
+
+
