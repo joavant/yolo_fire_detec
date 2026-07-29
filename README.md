@@ -12,7 +12,7 @@ By sharing this project on GitHub I want that anyone improve it to help prevent 
 
 For this project, I used the **MaixCAM**, an all-in-one AI camera.
 
-1. Download the `best.cvimodel` file.
+1. Download the `best.cvimodel` file. [here](https://huggingface.co/jojomoi-meme/YOLO_fire_detection)
 2. Connect your camera and upload the file.
 3. Use the `main.py` file to run the model and trigger alerts when fire is detected.
 4. Download the script and update the Telegram bot token and chat ID with your own credentials.
